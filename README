@@ -1,0 +1,11 @@
+Logan Gillis
+
+2/14/23
+
+Instructions: I implemented the code using pyhtons tkinter GUI library. The code should be executable locally. Edit the list_of_coworkers list to include coworkers name, and the 
+              price of their drink. The Program is then executable until the entire list is parsed through, then it will need to be reloaded. 
+
+Notes: I assumed "fair" in respect to the prices meant whoever spent the most should pay first. However, once they payed, it would not be fair if they were chosen to pay again. So
+       a simple randomizer would not suffice.  
+
+Thank you for the oppurtunity!
